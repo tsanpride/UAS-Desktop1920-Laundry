@@ -79,7 +79,7 @@ Terdapat pada fitur login menggunakan sanitasi input agar aman dari SQL Injectio
   <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/tambah_transaksi.png" width="430" />
   <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/update_transaksi.png" width="430" />
   <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/dashboard_data_admin.png" width="430" />
+  <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/tambah_admin.png" width="430" />
   <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/dashboard_data_pelanggan.png" width="430" />
   <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/dashboard_data_transaksi.png" width="430" />
-  <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/tambah_admin.png" width="430" />
 </p>
