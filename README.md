@@ -53,6 +53,7 @@ Terdapat pada fitur login menggunakan sanitasi input agar aman dari SQL Injectio
   <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/9.png" width="430" />
   <p>
 2. Buka terminal pada direktori tersebut dengan klik kanan, lalu pilih open in terminal.
+    
 3. Jalankan perintah ./uninstall.
 <p align="center">
   <img src="https://github.com/tsanpride/UAS-Desktop1920-Laundry/blob/master/AppLaundry/image/10.png" width="430" />
@@ -67,7 +68,7 @@ Terdapat pada fitur login menggunakan sanitasi input agar aman dari SQL Injectio
   <p>
   
 ## Manual penggunaan:
-1. Melakukan login 
+1. Melakukan login (gunakan username admin dengan password admin untuk masuk pertama kali)
 2. Masuk menu utama. Terdapat fitur cari pelanggan, input data pelanggan, dan melakukan transaksi.
 3. Terdapat tombol dashboard pada menu utama. Ketika masuk halaman dashboard terdapat fitur data admin, data pelanggan dan data transaksi.
 4. Setelah selesai menggunakan aplikasi, dapat melakukan logout.
